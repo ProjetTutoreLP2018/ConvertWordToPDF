@@ -1,0 +1,7 @@
+C:\Users\SALEMI\Documents\Visual Studio 2017\Projects\WordToPDFWithoutInterop\WordToPDFWithoutInterop\bin\Debug\WordToPDFWithoutInterop.exe.config
+C:\Users\SALEMI\Documents\Visual Studio 2017\Projects\WordToPDFWithoutInterop\WordToPDFWithoutInterop\bin\Debug\WordToPDFWithoutInterop.exe
+C:\Users\SALEMI\Documents\Visual Studio 2017\Projects\WordToPDFWithoutInterop\WordToPDFWithoutInterop\bin\Debug\WordToPDFWithoutInterop.pdb
+C:\Users\SALEMI\Documents\Visual Studio 2017\Projects\WordToPDFWithoutInterop\WordToPDFWithoutInterop\bin\Debug\WordToPDF.dll
+C:\Users\SALEMI\Documents\Visual Studio 2017\Projects\WordToPDFWithoutInterop\WordToPDFWithoutInterop\obj\Debug\WordToPDFWithoutInterop.csprojResolveAssemblyReference.cache
+C:\Users\SALEMI\Documents\Visual Studio 2017\Projects\WordToPDFWithoutInterop\WordToPDFWithoutInterop\obj\Debug\WordToPDFWithoutInterop.exe
+C:\Users\SALEMI\Documents\Visual Studio 2017\Projects\WordToPDFWithoutInterop\WordToPDFWithoutInterop\obj\Debug\WordToPDFWithoutInterop.pdb
